@@ -1,0 +1,10 @@
+1. #title { color: red; }
+2. p.note { font-size: 20px; }
+3. #box { background: blue; }
+4. טעות בשאלה לכאורה
+5. #intro { font-size: 18px; }
+6. .header { color: red; }
+7. #list { border: 3px solid red; }
+8. #app p { color: blue; }
+9. #save { background: red; }
+10. h3.subtitle { color: pink; }

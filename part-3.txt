@@ -1,0 +1,10 @@
+1. #wrapper
+2. h1.title
+3. div span
+4. #post .content p
+5. lu.menu li
+6. #main h2
+7. #news .highlight .title h3
+8. .top-menu ul#links li
+9. div#inner .text p
+10. #profile .header h4
